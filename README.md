@@ -1,5 +1,8 @@
 # Media-matic 
 
+# Check out our project here:
+https://share.streamlit.io/user/rishik-ashili
+
 ## Overview
 An intelligent analytics solution that helps you understand and optimize your social media performance. Built with cutting-edge technology, our platform provides deep insights for data-driven social media strategy decisions.
 
