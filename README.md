@@ -1,7 +1,8 @@
 # Media-matic 
 
-# Check out our project here:
-https://langflow.streamlit.app/
+# Check out our project & demo video here:
+https://langflow.streamlit.app/ -website
+https://www.youtube.com/watch?v=5aWgZfuJEHU - demo video
 
 ## Overview
 An intelligent analytics solution that helps you understand and optimize your social media performance. Built with cutting-edge technology, our platform provides deep insights for data-driven social media strategy decisions.
