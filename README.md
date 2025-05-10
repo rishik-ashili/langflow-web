@@ -98,3 +98,7 @@ LANGFLOW_API_KEY=your_langflow_api_key
 - DataStax team for their excellent database solution
 - LangFlow community for AI analytics capabilities
 - Streamlit team for the amazing web framework
+
+
+https://github.com/user-attachments/assets/6d927861-f642-4852-a4d4-ca207bc2c4a9
+
